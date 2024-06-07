@@ -1,3 +1,6 @@
+
+// Now With the help of this youtube tutorial i sucessfully push my code file on github
+
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById('nav-menu'),
       navToggle = document.getElementById('nav-toggle'),
